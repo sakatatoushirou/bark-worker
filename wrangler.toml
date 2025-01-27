@@ -1,6 +1,7 @@
 name = "bark-worker"
 main = "main.js"
 compatibility_date = "2025-01-01"
+account_id = "ca60c9366f7cf5d3f7e15ee9cb0df8ec"
 
 [[d1_databases]]
 binding = "database" # available in your Worker on env.database
